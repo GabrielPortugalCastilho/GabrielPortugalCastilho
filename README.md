@@ -27,7 +27,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://replit.com/@gabrielportuga3"  >
-      <img width="35" src="replitt.jpeg">
+      <img width="25" src="replitt.jpeg">
     </a>
     <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
       <img width="25" src="instagram.png">
