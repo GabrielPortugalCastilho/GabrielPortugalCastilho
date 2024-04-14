@@ -21,19 +21,19 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gabrielportucastilho@gmail.com" target="_blank">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="gmail.svg"  target="_blank">
     </a>
-    <a href = "https://www.linkedin.com/in/gabriel-portugal-castilho" target="_blank">
-      <img width="25" src="linkedin.svg">
+    <a href = "https://www.linkedin.com/in/gabriel-portugal-castilho">
+      <img width="25" src="linkedin.svg" target="_blank">
     </a>
-    <a href = "https://replit.com/@gabrielportuga3" target="_blank>
-      <img width="25" src="replittt.png">
+    <a href = "https://replit.com/@gabrielportuga3">
+      <img width="25" src="replittt.png"  target="_blank">
     </a>
-    <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
-      <img width="25" src="instagram.png">
+    <a href = "https://www.instagram.com/portugalcastilho/">
+      <img width="25" src="instagram.png"  target="_blank">
     </a>
     <a href = "https://discord.gg/dFPVhXsVEV" target="_blank">
-      <img width="30" src="discordd.png">
+      <img width="30" src="discordd.png" target="_blank">
     </a>
 </div>
   
