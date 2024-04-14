@@ -26,14 +26,14 @@
     <a href = "https://www.linkedin.com/in/gabriel-portugal-castilho" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://replit.com/@gabrielportuga3"  >
-      <img width="25" src="replitt.jpeg">
+    <a href = "https://replit.com/@gabrielportuga3" target="_blank>
+      <img width="25" src="replittt.png">
     </a>
     <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
-    <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
-      <img width="25" src="discord.png">
+    <a href = "https://discord.gg/dFPVhXsVEV" target="_blank">
+      <img width="30" src="discordd.png">
     </a>
 </div>
   
