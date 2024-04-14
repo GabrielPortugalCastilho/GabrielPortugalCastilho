@@ -26,8 +26,8 @@
     <a href = "https://www.linkedin.com/in/gabriel-portugal-castilho" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg"  >
-      <img width="35" src="replit.jpeg">
+    <a href = "https://replit.com/@gabrielportuga3"  >
+      <img width="35" src="replitt.jpeg">
     </a>
     <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
       <img width="25" src="instagram.png">
