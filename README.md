@@ -32,6 +32,9 @@
     <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
+    <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
+      <img width="25" src="discord.png">
+    </a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
