@@ -27,7 +27,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg"  >
-      <img width="35" src="youtube.svg">
+      <img width="35" src="replit.jpeg">
     </a>
     <a href = "https://www.instagram.com/portugalcastilho/" target="_blank">
       <img width="25" src="instagram.png">
