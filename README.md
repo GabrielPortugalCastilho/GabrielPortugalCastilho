@@ -80,8 +80,6 @@ Criar soluções digitais que unam tecnologia e experiência do usuário, evolui
 ⭐ Código com propósito. Design com intenção.
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielPortugalCastilho/GabrielPortugalCastilho/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielPortugalCastilho/GabrielPortugalCastilho/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielPortugalCastilho/GabrielPortugalCastilho/output/pacman-contribution-graph.svg">
-</picture>
+
+<img src="https://raw.githubusercontent.com/GabrielPortugalCastilho/GabrielPortugalCastilho/output/snake.svg" alt="Snake animation" />
+
