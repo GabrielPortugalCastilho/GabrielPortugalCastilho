@@ -1,50 +1,52 @@
-# 👋 Olá, eu sou o Gabriel (UniForte)
+# 👋 Olá, eu sou o Gabriel Portugal Castilho
 
-💻 Desenvolvedor Full Stack  
-🏢 Gestor de Tecnologia & Infraestrutura  
-📊 Especialista em Sistemas Corporativos  
-🌐 Foco em Automação, Redes e Soluções Empresariais  
+💻 Desenvolvedor Full Stack Júnior  
+🎨 UX/UI Designer  
+🚀 Foco em Desenvolvimento Web e Experiência do Usuário  
+🌱 Sempre evoluindo e aprendendo novas tecnologias  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia aplicada ao mundo real.  
-Atuo com desenvolvimento web, integração de sistemas, redes corporativas e automações para ambientes empresariais.
+Sou Desenvolvedor Full Stack Júnior e UX/UI Designer apaixonado por tecnologia e criação de experiências digitais.
 
-Tenho experiência prática com:
+Gosto de transformar ideias em interfaces intuitivas e sistemas funcionais, unindo design e código para entregar soluções modernas, organizadas e escaláveis.
 
-- 🔹 Infraestrutura de Redes (pfSense, VLAN, VPN, Failover, OSPF)
-- 🔹 Banco de Dados (MySQL, Oracle, SQL Server)
-- 🔹 Sistemas ERP (TOTVS, Consinco, RM)
-- 🔹 Desenvolvimento Web (HTML, CSS, JS, PHP, Node.js)
+Atualmente venho estudando e aplicando:
+
+- 🔹 Desenvolvimento Web moderno
+- 🔹 JavaScript e Node.js
 - 🔹 Automação com Python
-- 🔹 Dashboards e BI
+- 🔹 Banco de Dados MySQL
+- 🔹 UX Research e Prototipação
+- 🔹 Design de Interfaces (UI)
 
 ---
 
 ## 🛠️ Tecnologias que utilizo
 
-### 👨‍💻 Desenvolvimento
+### 👨‍💻 Front-end
 - HTML5
 - CSS3
 - JavaScript
+
+### ⚙️ Back-end
 - Node.js
-- PHP
 - Python
+
+### 🎨 UX/UI
+- Figma
+- Prototipação
+- Design Systems
+- Wireframes
 
 ### 🗄️ Banco de Dados
 - MySQL
-- Oracle
-- SQL Server
 
-### 🌐 Infraestrutura
-- pfSense
-- OpenVPN
-- IPsec
-- VLAN
-- DNS Resolver
-- Windows Server / GPO
+### 🧰 Ferramentas
+- Git & GitHub
+- VS Code
 
 ---
 
@@ -58,15 +60,8 @@ Tenho experiência prática com:
 
 ## 🎯 Objetivo
 
-Criar soluções tecnológicas que resolvam problemas reais, com eficiência, segurança e performance.
+Criar soluções digitais que unam tecnologia e experiência do usuário, evoluindo constantemente como desenvolvedor e designer.
 
 ---
 
-## 📫 Contato
-
-📧 Email: seuemail@exemplo.com  
-🌐 LinkedIn: https://linkedin.com/in/seuusuario  
-
----
-
-⭐ Sempre evoluindo. Sempre construindo.
+⭐ Código com propósito. Design com intenção.
