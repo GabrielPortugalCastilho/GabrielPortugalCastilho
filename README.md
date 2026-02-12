@@ -88,5 +88,3 @@ Criar soluções digitais que unam tecnologia e experiência do usuário, evolui
 ⭐ Código com propósito. Design com intenção.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPortugalCastilho&show_icons=true&theme=radical)
-
